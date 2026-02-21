@@ -1,0 +1,9 @@
+name: ESDProseccoDOCG
+channels:
+  - conda-forge
+dependencies:
+  - r-loader
+  - r-transformer
+  - r-visualizer
+  - r-irkernel
+  - jupyter
