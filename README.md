@@ -26,7 +26,6 @@ The `notebooks/` directory contains the following Jupyter notebooks organized by
 | [script02_downcalingCV.ipynb](notebooks/script02_downcalingCV.ipynb) | Provides an example of statistical downscaling using reanalysis predictors in a cross-validation approach. Tests different predictor sets and evaluates downscaling performance for local meteorological variables. |
 | [script03_downscaling_GCM.ipynb](notebooks/script03_downscaling_GCM.ipynb) | Applies the calibrated statistical downscaling methods to GCM data to produce local climate projections. Uses the best-performing predictor configuration identified in cross-validation. |
 | [script04_indices_calculation.ipynb](notebooks/script04_indices_calculation.ipynb) | Calculates viticulture-relevant climate indices from observations and downscaled projections. Computes indices such as heat wave events, temperature extremes, and precipitation patterns for April-September period. |
-| [data4zenodo.ipynb](notebooks/data4zenodo.ipynb) | Prepares and organizes datasets for publication in the Zenodo repository, ensuring reproducibility and data availability. |
 
 ## Installation and Setup
 
@@ -101,7 +100,7 @@ The project calculates several viticulture-relevant climate indices for April-Se
 
 ## Authors
 
-- **Ana Casanueva** (University of Cantabria), **Rodrigo Manzanas** (University of Cantabria), **Ezequiel Cimadevilla** (Instituto de Física de Cantabria, CSIC-UC), **Riccardo Soldan** (Food and Agriculture Organization of the United Nations).
+**Ana Casanueva** (University of Cantabria), **Rodrigo Manzanas** (University of Cantabria), **Ezequiel Cimadevilla** (Instituto de Física de Cantabria, CSIC-UC), **Riccardo Soldan** (Food and Agriculture Organization of the United Nations).
 
 ## License
 
