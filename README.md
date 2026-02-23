@@ -6,7 +6,9 @@
 
 This repository supports the reproducibility of empirical-statistical downscaling (ESD) experiments developed in the project **"Provision of statistically downscaled climate change scenarios for risk assessment in the Conegliano Valdobbiadene Prosecco DOCG production area"**.
 
-The project applies statistical downscaling techniques to Global Climate Model (GCM) simulations from CMIP5 to generate high-resolution climate projections for the Prosecco DOCG wine-producing region in northeastern Italy. The downscaled scenarios are evaluated using observational data and used to calculate viticulture-relevant climate indices under future climate conditions (RCP4.5 and RCP8.5 scenarios).
+The project applies statistical downscaling techniques to Global Climate Model (GCM) simulations from CMIP5 to generate high-resolution climate projections for the Prosecco DOCG wine-producing region in northeastern Italy. The downscaled scenarios are evaluated using observational data and used to calculate viticulture-relevant climate indices under future climate conditions (RCP4.5 and RCP8.5 scenarios). 
+
+The project technical report and the data produced can be found at:
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18483489.svg)](https://doi.org/10.5281/zenodo.18483489)
 
