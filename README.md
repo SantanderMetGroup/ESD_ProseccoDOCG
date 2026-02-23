@@ -122,17 +122,16 @@ GitHub repository: https://github.com/SantanderMetGroup/ESD_ProseccoDOCG
 To refer to the project or to use the data, please cite:
 
 ```
-Casanueva, A., Manzanas, R., Massaro, G., Zecchini, F., Francesco, R., & Soldan, R. (2026). Analysis of Downscaled Future Climate Scenarios in the Trevigiano. Zenodo. https://doi.org/10.5281/zenodo.18483489
+Casanueva, A., Manzanas, R., Massaro, G., Zecchini, F., Francesco, R., & Soldan, R. (2026).
+Analysis of Downscaled Future Climate Scenarios in the Trevigiano. Zenodo. https://doi.org/10.5281/zenodo.18483489
 ```
 
 
 Additionally, please cite the `climate4R` framework:
 
 ```
-Iturbide et al. (2019): The R-based climate4R open framework for 
-reproducible climate data access and post-processing. 
-Environmental Modelling & Software, 111, 42-54.
-DOI: 10.1016/j.envsoft.2018.09.009
+Iturbide et al. (2019): The R-based climate4R open framework for reproducible climate data access and post-processing. 
+Environmental Modelling & Software, 111, 42-54. DOI: 10.1016/j.envsoft.2018.09.009
 ```
 
 ## Acknowledgments
