@@ -8,6 +8,9 @@ This repository supports the reproducibility of empirical-statistical downscalin
 
 The project applies statistical downscaling techniques to Global Climate Model (GCM) simulations from CMIP5 to generate high-resolution climate projections for the Prosecco DOCG wine-producing region in northeastern Italy. The downscaled scenarios are evaluated using observational data and used to calculate viticulture-relevant climate indices under future climate conditions (RCP4.5 and RCP8.5 scenarios).
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18483489.svg)](https://doi.org/10.5281/zenodo.18483489)
+
+
 ## Key Features
 
 - **Statistical Downscaling**: Implementation of analog methods using the [`climate4R` framework](https://github.com/SantanderMetGroup/climate4R).
@@ -108,13 +111,20 @@ This project is licensed under the **GNU General Public License v3.0** - see the
 
 ## Citation
 
-If you use this code or data in your research, please cite:
+If you use this code in your research, please cite:
 
 ```
 Casanueva, A. et al. (2026). ESD_ProseccoDOCG: Statistical downscaling for climate 
 change risk assessment in the Prosecco DOCG production area. 
 GitHub repository: https://github.com/SantanderMetGroup/ESD_ProseccoDOCG
 ```
+
+To refer to the project or to use the data, please cite:
+
+```
+Casanueva, A., Manzanas, R., Massaro, G., Zecchini, F., Francesco, R., & Soldan, R. (2026). Analysis of Downscaled Future Climate Scenarios in the Trevigiano. Zenodo. https://doi.org/10.5281/zenodo.18483489
+```
+
 
 Additionally, please cite the `climate4R` framework:
 
