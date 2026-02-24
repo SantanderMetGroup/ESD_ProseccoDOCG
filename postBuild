@@ -1,6 +1,6 @@
 mkdir data
-wget -q -O "data/observations_subset_1991-2020.Rdata" "https://drive.google.com/file/d/13R7cmq3V6LWU6B0OQeuEaCty4o1Pw9th/view?usp=drive_link" 
-wget -q -O "data/italy_admin.rds" "https://drive.google.com/file/d/1lWgXNcu13GtTZUwKC3PGkmZ7qcPfglQr/view?usp=drive_link"
-wget -q -O "data/ERA5_P8predictors_2deg_1991-2020.Rdata" "https://drive.google.com/file/d/1QCz2SQebqjKl0lduPQDjfjP2UtKOuDZR/view?usp=drive_link"
-wget -q -O "data/CMIP5-subset_MPI-ESM-MR_r1i1p1_rcp45_P8predictors_2deg_1991-2100.Rdata" "https://drive.google.com/file/d/1FRY_-akvru9hwBZ6QgaOlh36RYccY0Lq/view?usp=drive_link"
-wget -q -O "data/CMIP5-subset_MPI-ESM-MR_r1i1p1_rcp85_P8predictors_2deg_1991-2100.Rdata" "https://drive.google.com/file/d/1eKmrl1qOlMCeA6PVXtYJsLYJASUKvQgL/view?usp=drive_link"
+wget -q -O "data/observations_subset_1991-2020.Rdata" "https://drive.usercontent.google.com/download?id=12rekJAQueZQPHbaCuVSrIsuPK3qXMgYH&export=download&authuser=0&confirm=t" 
+wget -q -O "data/italy_admin.rds" "https://drive.usercontent.google.com/download?id=14eySz6x00A076xvn60KXNeTOQlnoG0x9&export=download&authuser=0&confirm=t"
+wget -q -O "data/ERA5_P8predictors_2deg_1991-2020.Rdata" "https://drive.usercontent.google.com/download?id=1WmzmXLFChfO3O3xY5jUh7lCaV27Z6orw&export=download&authuser=0&confirm=t"
+wget -q -O "data/CMIP5-subset_MPI-ESM-MR_r1i1p1_rcp45_P8predictors_2deg_1991-2100.Rdata" "https://drive.usercontent.google.com/download?id=1YZKVH88kebN0gFLtzsvX7mUT7il3epAV&export=download&authuser=0&confirm=t"
+wget -q -O "data/CMIP5-subset_MPI-ESM-MR_r1i1p1_rcp85_P8predictors_2deg_1991-2100.Rdata" "https://drive.usercontent.google.com/download?id=1Bn8SA2kfp7VZHrOrin-eiuCzgYSF77Fy&export=download&authuser=0&confirm=t"
